@@ -1,5 +1,6 @@
 # Boston unviersity
-# mushroom
+
+mushroom at BUSM
 
 #computational-project-cookie-cutter
 A cookie cutter (aka project template) to set up a folder structure for a computational project.
